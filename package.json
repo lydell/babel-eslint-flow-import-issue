@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "eslint test.js"
+  },
+  "dependencies": {
+    "babel-eslint": "10.0.2",
+    "eslint": "6.0.0"
+  }
+}
